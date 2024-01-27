@@ -43,3 +43,4 @@ pub mod get_file;
 pub mod get_line;
 
 pub mod git_fields;
+pub mod git_info;
