@@ -41,3 +41,5 @@ pub mod get_column;
 pub mod get_duration;
 pub mod get_file;
 pub mod get_line;
+
+pub mod git_fields;
