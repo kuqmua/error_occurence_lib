@@ -42,5 +42,6 @@ pub mod get_duration;
 pub mod get_file;
 pub mod get_line;
 
+pub mod get_git_source_file_link;
 pub mod git_fields;
 pub mod git_info;
